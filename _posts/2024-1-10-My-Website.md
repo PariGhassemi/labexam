@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started with Sleek
-featured-img: sleek
+title: Lab Exam
+featured-img: bc
 mathjax: true
 ---
 
-# Getting started
+# My Website
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
+[My Website](https://github.com/PariGhassemi/PariGhassemi.github.io) 
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `blog` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
 
 1. Just download or fork and clone the source from [github.com/janczizikow/sleek](https://github.com/janczizikow/sleek/).
@@ -17,11 +17,14 @@ Let's say you have a username/organisation `my-org` and project `my-proj`; if yo
 
 **Note** that you might have to adjust some CSS depending on the width and height of your logo. You can find Header / Navigation related SCSS in `_sass/layout/nav.scss`.
 
-## Writing content
+## مطالب مهمی که در این ترم یاد گرفتیم
 
 ### Posts
 
-Create a new Markdown file such as `2017-01-13-my-post.md` in `_post` folder. Configure YAML Front Matter (stuff between `---`):
+- برنلمه نویسی فرانت اند و بک اند
+- بیرون کشیدن گلیم خودمان از آب
+- چگونه با کمک هوش مصنوعی بهینه کار کنیم
+
 
 ```yaml
 
